@@ -86,26 +86,13 @@ chaithu-frames/
 └── screenshots/        ← add your own screenshots here
 ```
 
----
-
-## 🌐 Deploying
-
-This repo is set up to deploy with **GitHub Pages**:
-
-1. Go to your repo's **Settings → Pages**.
-2. Under "Build and deployment," set Source to **Deploy from a branch**.
-3. Branch: `main`, folder: `/(root)`.
-4. Save, wait a minute, and your live link will appear at the top of that page.
-
-Don't forget to add your GitHub Pages domain (e.g. `your-username.github.io`) under **Firebase Console → Authentication → Settings → Authorized domains**, or admin sign-in will fail once you're live.
 
 ---
 
 ## 📬 Connect
 
 - LinkedIn:(https://www.linkedin.com/in/chaithanya-094a71322)
-- Instagram: [your Instagram link here]
-
+- Instagram:(https://www.instagram.com/chaithus_art_gallery?igsh=MXhiNnA4bXJ3cTdwbw==)
 ---
 
 © 2026 Chaithu Frames — Capturing Moments. Sharing Stories.
