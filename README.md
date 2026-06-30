@@ -4,7 +4,7 @@
 
 A personal photography blog built with HTML, CSS, JavaScript, and Firebase — a forest-and-rain themed journal where every photograph comes with the story behind it.
 
-🔗 **Live site:** [https://YOUR-USERNAME.github.io/chaithu-frames/](https://YOUR-USERNAME.github.io/chaithu-frames/) <!-- replace with your real GitHub Pages link once it's live -->
+🔗 **Live site:** (https://chaithanya8861.github.io/Chaithu-frames/) <!-- replace with your real GitHub Pages link once it's live -->
 
 ---
 
